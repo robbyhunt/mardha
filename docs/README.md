@@ -6,7 +6,7 @@ heroText: Adventure, Mystery, Magic
 tagline: Mardha is a fantasy setting for story-telling and the Savage Worlds role-playing game.
 actionText: Start here →
 actionLink: ""
-features:
+features1:
   - title: 
     details: 
   - title: 

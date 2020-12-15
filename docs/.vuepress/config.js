@@ -1,7 +1,7 @@
 // Autometa Init
 const autometa_options = {
   site: {
-    name: "Mardha Setting Compendium",
+    name: "Mardha",
     twitter: ""
   },
   canonical_base: "https://mardha.netlify.app/"
