@@ -1,7 +1,7 @@
 // Autometa Init
 const autometa_options = {
   site: {
-    name: "Mardha",
+    name: "Mardha Setting Compendium",
     twitter: ""
   },
   canonical_base: "https://mardha.netlify.app/"
@@ -21,7 +21,7 @@ module.exports = {
     ["link", { rel: "apple-touch-icon", href: "/assets/favicon/icon-180x180.png" }],
     ["link", { rel: "icon", href: "/assets/favicon/icon-512x512.png" }],
     ["meta", { name: "theme-color", content: "#2196f3" }],
-    ["meta", { name: "og:image", content: "/assets/img/bg-home-white.jpg" }]
+    ["meta", { name: "og:image", content: "/assets/img/bg-home.jpg" }]
   ],
   title: "Mardha",
   description: "Fantasy Setting for story-telling and the Savage Worlds roleplaying game",
