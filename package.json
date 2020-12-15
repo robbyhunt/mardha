@@ -1,6 +1,6 @@
 {
   "name": "mardha",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Fantasy Setting for Roleplaying Games",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/robbyhunt/mardha.git"
   },
-  "author": "Marco Bertolini",
+  "author": "Robby Hunt",
   "license": "MIT",
   "bugs": {
     "url": "hhttps://github.com/robbyhunt/mardha/issues"
