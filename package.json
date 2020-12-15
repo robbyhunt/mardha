@@ -14,9 +14,9 @@
   "author": "Robby Hunt",
   "license": "MIT",
   "bugs": {
-    "url": "hhttps://github.com/robbyhunt/mardha/issues"
+    "url": "https://github.com/robbyhunt/mardha/issues"
   },
-  "homepage": "https://github.com/robbyhunt/mardha#readme",
+  "homepage": "https://mardha.netlify.app#readme",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-medium-zoom": "^1.7.1",

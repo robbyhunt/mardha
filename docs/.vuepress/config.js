@@ -4,11 +4,11 @@ const autometa_options = {
     name: "Mardha",
     twitter: ""
   },
-  canonical_base: "https://github.com/robbyhunt/mardha"
+  canonical_base: "https://mardha.netlify.app/"
 };
 // RSS Init
 const feed_options = {
-  canonical_base: "https://github.com/robbyhunt/mardha"
+  canonical_base: "https://mardha.netlify.app/"
 };
 
 module.exports = {
