@@ -48,10 +48,10 @@ module.exports = {
         text: "Society",
           items : [
             {text: "Race", link: "/society/race/"},
-            {text: "Religion", link: "/society/religion/"},
+            {text: "Organisations", link: "/society/organisations/"},
           ]
       },
-      {text: "Magic", link: "/magic/magic/"},
+      {text: "Magic", link: "/magic/"},
       {
         text: "Almanac",
         items: [

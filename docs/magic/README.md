@@ -123,7 +123,7 @@ Hexslinging gets it's name from the term for a power in the Wildelands (Hex), wh
 
 Through a battle of wits a Hexslinger attempts to manifest magical powers from the Manitous. If they're feeling lucky they can engage in a gamble to cast powers with no power point cost and with extra bonuses, but there's a price for losing a bet with a spirit.
 
-Gambling with a Manitous is an instant free action. To gamble the hexslinger must first accounce which power they wish to cast, and with what modifiers. Then draw five cards from the deck, with one additional card per two ranks of Gambling (Smarts). With five of these cards they must make the best Crabhandle hand they can and compare it to [this table](./tables/). Jokers are wild cards and can be used in place of any card in the deck, although there is a cost to their use.
+Gambling with a Manitous is a free action. To gamble the hexslinger must first announce which power they wish to cast, and with what modifiers. Then draw five cards from the deck, with one additional card per two ranks of Gambling (Smarts). With five of these cards they must make the best Crabhandle hand they can and compare it to [this table](./tables/). Jokers are wild cards and can be used in place of any card in the deck, although there is a cost to their use.
 
 If the hexslinger's hand matches or beats the number of Power Points needed to cast the hex, he’s won his bargain with the Manitous. He still needs to make a Spellcasting roll to determine success, but the Power Points are paid by the manitou. With a Flush or better, success is automatic, but a Spellcasting roll may still be needed in the case of an
 opposed roll (the hexslinger gains a +4 bonus to these rolls from the Flush).
