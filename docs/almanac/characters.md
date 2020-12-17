@@ -5,11 +5,31 @@ Suspendisse sit amet blandit nisi. Aliquam aliquam, sem ut pharetra vestibulum, 
 ## Famous Individuals
 
 ### Brynstan Ashrider
+___
+
+### Cazio Montila
+___
 
 ### C.J. Spurlock
+___
 
 ### Castian Starborn
+___
+
+### Erys Grattan
+___
+
+### Jorach Grallin
+___
 
 ### Jyneira Damayanti
+___
 
-### Sven Aranos Ragnulf
+### Lukias Allidar
+___
+
+### Ricven Gallos
+___
+
+### Sven A'ranos Ragnulf
+___
