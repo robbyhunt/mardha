@@ -21,6 +21,8 @@ ___
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus tortor leo, eget facilisis libero lacinia consectetur. Nunc rutrum est eros, eu scelerisque ante hendrerit commodo. Aliquam vel faucibus justo. Integer ultricies ante scelerisque rutrum aliquet. Proin vitae iaculis ligula.
 
+<img class="fullwidth" src="../../imgs/jediranks.jpg" />
+
 ## Religion
 
 ### Children of The Cataclysm

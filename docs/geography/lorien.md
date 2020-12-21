@@ -4,10 +4,20 @@ Suspendisse sit amet blandit nisi. Aliquam aliquam, sem ut pharetra vestibulum, 
 
 ## Arenda
 
+<div class="script">Arenda</div>
+
 ## Ironlands
+
+<div class="script">Ironlands</div>
 
 ## Mirvale
 
+<div class="script">Mirvale</div>
+
 ## Ostra
 
+<div class="script">Ostra</div>
+
 ## Varilia
+
+<div class="script">Varilia</div>

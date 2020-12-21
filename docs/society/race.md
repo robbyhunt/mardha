@@ -2,7 +2,10 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin massa metus, pulvinar sed ornare nec, lacinia a purus. Sed ullamcorper ullamcorper nisl, et lacinia quam porta vestibulum. In vitae neque augue. Suspendisse nisl enim, efficitur id posuere eget, ullamcorper non mauris. Suspendisse suscipit, odio a congue maximus, turpis sapien lacinia ligula, quis dignissim sapien justo ut leo. Nulla dapibus facilisis vulputate. Donec eget metus nec metus rutrum pharetra. Sed tristique sem leo, ac rutrum turpis maximus quis.
 
-## Humans
+## Human
+
+<div class="script">Human</div>
+
 <img style="float: left; max-width: 200px" src="../../imgs/human.png" />
 
 Curabitur ornare velit non ornare sagittis. Vestibulum commodo laoreet diam, at cursus augue posuere dignissim. Donec quis arcu augue. Fusce at augue a nibh vehicula volutpat id eget enim. Maecenas malesuada facilisis nibh, nec venenatis lacus bibendum sit amet. Praesent scelerisque nibh ex, eget convallis eros ultrices vel.
@@ -19,6 +22,8 @@ Curabitur ornare velit non ornare sagittis. Vestibulum commodo laoreet diam, at 
 <br/>
 
 ## Felidar
+
+<div class="script">Felidar</div>
 
 Donec magna nulla, feugiat vel sollicitudin ut, fringilla eget ligula. Mauris vel velit viverra, pulvinar nulla et, tempor elit. Mauris accumsan, est quis rhoncus vehicula, tortor ligula tristique nulla, sed suscipit metus arcu vel lacus. Etiam non enim elit. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
@@ -75,7 +80,7 @@ Aliquam erat volutpat. Nam ac augue id arcu facilisis maximus sed eu nisl. Donec
 </blockquote>
 
 ### Panthera Clan
-<img style="float: right;" src="../../imgs/panthera.jpg" />
+<img style="float: right; max-width: 250px" src="../../imgs/panthera.jpg" />
 
 Mauris nec purus gravida, tincidunt velit tempus, tincidunt nisi. Etiam rhoncus ex felis, sit amet malesuada tellus placerat in. Duis convallis tortor turpis, vitae hendrerit massa pulvinar a.
 
@@ -89,7 +94,7 @@ Mauris nec purus gravida, tincidunt velit tempus, tincidunt nisi. Etiam rhoncus 
 
 <span style="color:#2e8b57"><strong>+ parry: </strong></span>Felidar hate water, and so most of them never learn to swim at all. -2 to all Atheltics(Swimming) rolls.
 
-<img style="float: left;" src="../../imgs/panthera2.jpg" />
+<img style="float: left; max-width: 250px" src="../../imgs/panthera2.jpg" />
 
 <span style="color:#8b0000"><strong>- racial enemy (TBD): </strong></span>Felidar hate water, and so most of them never learn to swim at all. -2 to all Atheltics(Swimming) rolls.
 
@@ -100,7 +105,7 @@ Mauris nec purus gravida, tincidunt velit tempus, tincidunt nisi. Etiam rhoncus 
 </blockquote>
 
 ### Tigris Clan
-<img style="float: right" src="../../imgs/tigris.jpg" />
+<img style="float: right;" src="../../imgs/tigris.jpg" />
 
 Praesent ac quam a orci imperdiet ultricies nec sed odio. Ut posuere tincidunt interdum. Nulla varius convallis orci, vitae faucibus arcu eleifend quis. Quisque sed malesuada enim, sit amet blandit massa. 
 
@@ -144,6 +149,9 @@ Nullam sit amet ipsum nisl. Quisque fermentum ex lorem, at finibus velit accumsa
 </blockquote>
 
 ## Vulpen
+
+<div class="script">Vulpen</div>
+
 <img style="float: right;" src="../../imgs/vulpen.jpg" />
 
 Donec enim nisi, mattis a venenatis a, mattis vel ipsum. Integer sagittis tempus faucibus. Nullam non tellus risus. Curabitur eu massa vitae ipsum maximus tristique eget at massa. Etiam nibh nulla, blandit a metus sit amet, semper placerat lacus. Morbi non sagittis elit.
@@ -168,7 +176,9 @@ Donec enim nisi, mattis a venenatis a, mattis vel ipsum. Integer sagittis tempus
 
 </blockquote>
 
-## Elves
+## Elf
+
+<div class="script">Elf</div>
 
 Donec blandit ornare felis, sed pellentesque risus aliquam sit amet. Aenean in malesuada mi. Maecenas nec elit luctus, pellentesque sem a, ornare orci. Praesent nec venenatis mi. Suspendisse eget rutrum mi. Praesent tempor malesuada velit, vitae rhoncus elit aliquam quis.
 
