@@ -34,12 +34,15 @@ module.exports = {
     nav: [
       { text: "Geography",
         items: [
-          { text: "Cities", link: "/geography/cities/" },
           { text: "Continents",
             items: [
               { text: "Lorien", link: "/geography/lorien/" },
               { text: "Avestan", link: "/geography/avestan/" },
-              { text: "Unnamed", link: "/geography/unnamed/" },
+            ],
+          },
+          { text: "Other",
+            items: [
+              { text: "Cities of Mardha", link: "/geography/other/cities/" },
             ],
           },
         ],

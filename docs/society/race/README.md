@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin massa metus, pulv
 
 <div class="script">Human</div>
 
-<img style="float: left; max-width: 200px" src="../../imgs/human.png" />
+<img style="float: left; max-width: 200px" src="../../../imgs/human.png" />
 
 Curabitur ornare velit non ornare sagittis. Vestibulum commodo laoreet diam, at cursus augue posuere dignissim. Donec quis arcu augue. Fusce at augue a nibh vehicula volutpat id eget enim. Maecenas malesuada facilisis nibh, nec venenatis lacus bibendum sit amet. Praesent scelerisque nibh ex, eget convallis eros ultrices vel.
 
@@ -38,7 +38,7 @@ Donec magna nulla, feugiat vel sollicitudin ut, fringilla eget ligula. Mauris ve
 </blockquote>
 
 ### Leo Clan
-<img style="float: right;" src="../../imgs/leo.jpg" />
+<img style="float: right;" src="../../../imgs/leo.jpg" />
 
 Nulla interdum sollicitudin dui, eget laoreet massa ornare non. Suspendisse odio arcu, aliquam sit amet efficitur vel, semper vel tellus. Fusce elit ex, consectetur quis posuere quis, rutrum eget purus. Donec ac ante ac turpis luctus euismod. 
 
@@ -59,7 +59,7 @@ Nulla interdum sollicitudin dui, eget laoreet massa ornare non. Suspendisse odio
 </blockquote>
 
 ### Yuu-Shin Clan
-<img style="float: left;" src="../../imgs/yuu-shin.jpg" />
+<img style="float: left;" src="../../../imgs/yuu-shin.jpg" />
 
 Aliquam erat volutpat. Nam ac augue id arcu facilisis maximus sed eu nisl. Donec porta mattis lorem vitae aliquam. Morbi dui ligula, vulputate a porta vel, aliquam vel massa.
 
@@ -80,7 +80,7 @@ Aliquam erat volutpat. Nam ac augue id arcu facilisis maximus sed eu nisl. Donec
 </blockquote>
 
 ### Panthera Clan
-<img style="float: right; max-width: 250px" src="../../imgs/panthera.jpg" />
+<img style="float: right; max-width: 250px" src="../../../imgs/panthera.jpg" />
 
 Mauris nec purus gravida, tincidunt velit tempus, tincidunt nisi. Etiam rhoncus ex felis, sit amet malesuada tellus placerat in. Duis convallis tortor turpis, vitae hendrerit massa pulvinar a.
 
@@ -94,7 +94,7 @@ Mauris nec purus gravida, tincidunt velit tempus, tincidunt nisi. Etiam rhoncus 
 
 <span style="color:#2e8b57"><strong>+ parry: </strong></span>Felidar hate water, and so most of them never learn to swim at all. -2 to all Atheltics(Swimming) rolls.
 
-<img style="float: left; max-width: 250px" src="../../imgs/panthera2.jpg" />
+<img style="float: left; max-width: 250px" src="../../../imgs/panthera2.jpg" />
 
 <span style="color:#8b0000"><strong>- racial enemy (TBD): </strong></span>Felidar hate water, and so most of them never learn to swim at all. -2 to all Atheltics(Swimming) rolls.
 
@@ -105,7 +105,7 @@ Mauris nec purus gravida, tincidunt velit tempus, tincidunt nisi. Etiam rhoncus 
 </blockquote>
 
 ### Tigris Clan
-<img style="float: right;" src="../../imgs/tigris.jpg" />
+<img style="float: right;" src="../../../imgs/tigris.jpg" />
 
 Praesent ac quam a orci imperdiet ultricies nec sed odio. Ut posuere tincidunt interdum. Nulla varius convallis orci, vitae faucibus arcu eleifend quis. Quisque sed malesuada enim, sit amet blandit massa. 
 
@@ -128,7 +128,7 @@ Praesent ac quam a orci imperdiet ultricies nec sed odio. Ut posuere tincidunt i
 </blockquote>
 
 ### Mongrel
-<img style="float: left;" src="../../imgs/mongrel.jpg" />
+<img style="float: left;" src="../../../imgs/mongrel.jpg" />
 
 Nullam sit amet ipsum nisl. Quisque fermentum ex lorem, at finibus velit accumsan posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur vitae ex eu arcu condimentum vestibulum vel ut leo.
 
@@ -152,7 +152,7 @@ Nullam sit amet ipsum nisl. Quisque fermentum ex lorem, at finibus velit accumsa
 
 <div class="script">Vulpen</div>
 
-<img style="float: right;" src="../../imgs/vulpen.jpg" />
+<img style="float: right;" src="../../../imgs/vulpen.jpg" />
 
 Donec enim nisi, mattis a venenatis a, mattis vel ipsum. Integer sagittis tempus faucibus. Nullam non tellus risus. Curabitur eu massa vitae ipsum maximus tristique eget at massa. Etiam nibh nulla, blandit a metus sit amet, semper placerat lacus. Morbi non sagittis elit.
 
@@ -183,7 +183,7 @@ Donec enim nisi, mattis a venenatis a, mattis vel ipsum. Integer sagittis tempus
 Donec blandit ornare felis, sed pellentesque risus aliquam sit amet. Aenean in malesuada mi. Maecenas nec elit luctus, pellentesque sem a, ornare orci. Praesent nec venenatis mi. Suspendisse eget rutrum mi. Praesent tempor malesuada velit, vitae rhoncus elit aliquam quis.
 
 ### Wild Elves
-<img style="float: left;" src="../../imgs/wildelves.png" />
+<img style="float: left;" src="../../../imgs/wildelves.png" />
 
 Eret eros nunc, venenatis id gravida eget, eleifend at turpis. Nunc mollis turpis vel massa viverra dignissim. Aliquam eu sem mi. Duis sed massa ut lorem convallis scelerisque sit amet sit amet quam.
 
