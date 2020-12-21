@@ -8,11 +8,9 @@ Suspendisse sit amet blandit nisi. Aliquam aliquam, sem ut pharetra vestibulum, 
 
 <div class="script">Arenda</div>
 
-### Ashlan
+### [Ashlan](ashlan/)
 
 <div class="script">Ashlan</div>
-
-[Ashlan](ashlan/)
 
 ### Ironlands
 
@@ -26,8 +24,6 @@ Suspendisse sit amet blandit nisi. Aliquam aliquam, sem ut pharetra vestibulum, 
 
 <div class="script">Ostra</div>
 
-### Varilia
+### [Varilia](varilia/)
 
 <div class="script">Varilia</div>
-
-[Varilia](varilia/)
