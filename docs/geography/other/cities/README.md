@@ -1,7 +1,5 @@
 # The Cities of Mardha
 
-Maecenas sed congue lectus. Suspendisse nec elit id lacus scelerisque gravida. Aenean tincidunt, diam molestie bibendum finibus, tellus leo facilisis magna, eget imperdiet risus mauris sed nunc. In rutrum malesuada volutpat. Nullam iaculis accumsan nunc sit amet consequat. Nullam vel diam eu velit sollicitudin ornare eu eget velit. Phasellus commodo, nisl sit amet condimentum mattis, felis diam euismod lacus, in commodo nisi dui sed leo. 
-
 ## Arteris <i style="float:right">A New Hope</i>
 
 <div class="script">Arteris</div>
