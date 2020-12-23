@@ -60,6 +60,7 @@ module.exports = {
         items: [
           { text: "Characters", link: "/almanac/characters/" },
           { text: "Creatures", link: "/almanac/creatures/" },
+          { text: "Edges & Hindrances", link: "/almanac/edgehindrancepower/" },
           { text: "Items", link: "/almanac/items/" },
         ]
       }

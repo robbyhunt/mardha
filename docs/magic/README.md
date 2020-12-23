@@ -9,6 +9,8 @@ Magic can only be performed with a powerful source. Some casters find this power
 ### Arcum
 ---
 
+<div class="script">Arcum</div>
+
 <img style="float: right;max-width: 200px" src="../../imgs/arcumcrystal.jpg" />
 
 Arcum Crystals are a naturally forming resource which can be found sparsely all over Mardha. It isn't yet understood what conditions cause the crystals to form, but it is known that they hold large amounts of energy and only tiny amounts are required to perform great feats.
@@ -18,6 +20,8 @@ The crystals are often stored in a powdered form, known as Dust. There are multi
 ### Divinity
 ---
 
+<div class="script">Divinity</div>
+
 There is little proof of the existance of "true gods", but there are unquestionably many powerful entities which exist outside of the mortal realm. Some of these beings, to varying degrees, attempt to influence the world of Mardha by bestowing power to devout followers or chosen individuals. 
 
 Acts of divinity are unique in that they bring power into Mardha from elsewhere.
@@ -26,6 +30,8 @@ Sold your soul to a devil for power? Divinity. Won your powers from a spirit in 
 
 ### Syn
 ---
+
+<div class="script">Syn</div>
 
 Beneath Arteris, in the ruins of Zaresyn, the ground is rich with a viscous green fluid known as Syn. The oil-like liquid has enabled a great technological advancement, allowing the creation of mechanical magical tools without the use of Arcum.
 <img style="float: left; min-width: 380px" src="../../imgs/syn.jpg" />
@@ -38,11 +44,15 @@ The revolutionary substance is mostly thought to be a by-product of The Cataclys
 ### Wakana
 ---
 
+<div class="script">Wakana</div>
+
 There is an energy which exists in and around all things in Mardha. It is known by many words, but the commonly used term is Wakana. Through various methods of attunement, focus, and assimilation, individuals have learned to influence this force directly.
 
-Believers in the inherent balance of Wakana tell that all instances of change to this force are mirrored by equal reactions. This leads some to provide sacrifices, or offerings in exchange. Others simply exercise restraint in their effect on Wakana, using it only when necessary.
-
 Ritualistic magics work through manipulation of this force, as do the great feats of self-enhancement managed by the disciples of the Yuu-Shin monestary.
+
+#### The Balance
+
+Many believe that Wakana is self-balancing, that all instances of change to this powerful force are mirrored by equal reactions at another place - and time - in existance. This leads some to provide sacrifices, or offerings in exchange for their alterations. Some simply exercise restraint in their effect on Wakana, using it only when necessary. Others, who manipulate Wakana only for personal gain, greed, and power, pay no mind to the effects of their actions.
 
 ## Arcane Backgrounds
 
