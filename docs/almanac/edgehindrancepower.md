@@ -13,7 +13,7 @@ The Guardian has been taught the secret technique necessary to bend Wakana into 
 
 ##  Hindrances
 
-## Powers
+## Powers
 
 ### Force Push
 ___
